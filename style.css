@@ -18,8 +18,8 @@ body {
           justify-content: center;
   height: 100vh;
   overflow: hidden;
-  -webkit-transition: 0.5s background ease;
-  transition: 0.5s background ease;
+  -webkit-transition: 0.5s var(--background) ease;
+  transition: 0.5s var(--background) ease;
 }
 
 .container {
